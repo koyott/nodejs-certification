@@ -62,9 +62,11 @@ I have been working in this repository for several months. I have wanted to shar
 [Worker Threads](https://nodejs.org/api/worker_threads.html) \
 [Zlib](https://nodejs.org/api/zlib.html)
 
+
+Go through the core Node.js API, focus on streams, buffers, the event system and child processes. As described in the exam details they are the most important topics.
 ## 💪 JSNAD Domains & Competencies
 
-- Buffer and Streams – 11%
+- Buffer and Streams – 11% (++)
   - Node.js Buffer API’s
   - Incremental Processing
   - Transforming Data
@@ -72,7 +74,7 @@ I have been working in this repository for several months. I have wanted to shar
 - Control flow – 12%
   - Managing asynchronous operations
   - Control flow abstractions
-- Child Processes – 8%
+- Child Processes – 8% (++)
   - Spawning or Executing child processes
   - Child process configuration
 - Diagnostics – 6%
@@ -83,7 +85,8 @@ I have been working in this repository for several months. I have wanted to shar
   - Handling errors in various scenarios
 - Node.js CLI – 4%
   - Node executable command line flags
-- Events – 11%
+    https://nodejs.org/dist/latest-v14.x/docs/api/cli.html
+  - Events – 11% (++)
   - The event system
   - Building event emitters
   - Consuming event emitters
